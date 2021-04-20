@@ -1,0 +1,25 @@
+{
+  "name": "prelimexam",
+  "version": "1.0.0",
+  "description": "OrinePandi Webshop",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoreenPandi/OrinePandiPrelimExam.git"
+  },
+  "keywords": [
+    "webshop"
+  ],
+  "author": "OrinePandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoreenPandi/OrinePandiPrelimExam/issues"
+  },
+  "homepage": "https://github.com/DoreenPandi/OrinePandiPrelimExam#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
